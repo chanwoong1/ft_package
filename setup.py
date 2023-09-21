@@ -30,6 +30,6 @@ setup(
     ],
     # 패키지에 포함되는 데이터 파일을 지정하는 부분 (예: .txt, .md 등의 파일)
     package_data={
-        "ft_package": ["*.txt", "*.md"],
+        "ft_package_chanwoong1": ["*.txt", "*.md"],
     },
 )
